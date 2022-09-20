@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\museeum\bin\Debug\net6.0\museeum.exe
+C:\Users\danie\Documents\suvnet22\museeum\bin\Debug\net6.0\museeum.deps.json
+C:\Users\danie\Documents\suvnet22\museeum\bin\Debug\net6.0\museeum.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\museeum\bin\Debug\net6.0\museeum.dll
+C:\Users\danie\Documents\suvnet22\museeum\bin\Debug\net6.0\museeum.pdb
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\museeum.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\museeum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\museeum.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\museeum.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\museeum.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\museeum.dll
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\refint\museeum.dll
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\museeum.pdb
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\museeum.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\museeum\obj\Debug\net6.0\ref\museeum.dll
